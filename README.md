@@ -1,3 +1,3 @@
 # MACHINE-LEARING-KITS
-## In This Repo we will be learing ML works with Examples
+## In This Repo we will be learning ML works with Examples
 
